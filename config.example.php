@@ -1,0 +1,3 @@
+<?php
+
+const TGKEY = 'PASTE_HERE_YOUR_TG_BOT_KEY';
